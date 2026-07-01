@@ -1,0 +1,12 @@
+# NAME: Feishu
+# AUTHOR: kidfanfan
+# REPO: https://github.com/kidfanfan/ios_rule_script
+# UPDATED: 2025-09-28 02:08:33
+# DOMAIN-SUFFIX: 4
+# IP-CIDR: 1
+# USER-AGENT: 1
+# TOTAL: 4
+DOMAIN-SUFFIX,larksuite.com
+DOMAIN-SUFFIX,larksuitecdn.com
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,feishucdn.com
