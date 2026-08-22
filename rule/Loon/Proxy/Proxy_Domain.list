@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-30 02:45:14
+# UPDATED: 2026-08-22 02:30:24
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6746
+# DOMAIN-SUFFIX: 6761
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6886
+# TOTAL: 6901
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -36,6 +36,7 @@
 .18board.com
 .18board.info
 .18comic.org
+.18comic.vip
 .18mh.net
 .18onlygirls.com
 .18p2p.com
@@ -231,6 +232,7 @@
 .ai-wen.net
 .ai.dev
 .ai.studio
+.aihub.top
 .aiosearch.com
 .aiph.net
 .airasia.com
@@ -981,6 +983,7 @@
 .centerforhumanreprod.com
 .centralnation.com
 .centurys.net
+.cerebras.ai
 .certificate-transparency.org
 .cex.io
 .cfhks.org.hk
@@ -1109,6 +1112,7 @@
 .chromercise.com
 .chromestatus.com
 .chromium.org
+.cht.com.tw
 .chuang-yen.org
 .chubold.com
 .chubun.com
@@ -1122,6 +1126,7 @@
 .cienen.com
 .cineastentreff.de
 .cipfg.org
+.circle19.org
 .circlethebayfortibet.org
 .cirosantilli.com
 .citizencn.com
@@ -1145,6 +1150,7 @@
 .ck101.com
 .cl.ly
 .clarionproject.org
+.clashyun.com
 .classicalguitarblog.net
 .claude.com
 .clb.org.hk
@@ -1229,7 +1235,6 @@
 .comments.app
 .commentshk.com
 .communistcrimes.org
-.community.windy.com
 .communitychoicecu.com
 .comodoca.com
 .comparitech.com
@@ -1472,6 +1477,7 @@
 .disqus.com
 .disquscdn.com
 .dit-inc.us
+.divdyn.com
 .diyin.org
 .dizhidizhi.com
 .dizhuzhishang.com
@@ -1741,6 +1747,7 @@
 .eromon.net
 .eroprofile.com
 .eroticsaloon.net
+.esim.redteago.com
 .eslite.com
 .esmtp.biz
 .esurance.com
@@ -1781,6 +1788,7 @@
 .experts-univers.com
 .exploader.net
 .expofutures.com
+.expressnews.com
 .expressvpn.com
 .exrates.me
 .extmatrix.com
@@ -3152,6 +3160,7 @@
 .kanzhongguo.eu
 .kaotic.com
 .karayou.com
+.kards.com
 .karkhung.com
 .karmapa-teachings.org
 .karmapa.org
@@ -3729,7 +3738,6 @@
 .movements.org
 .moves-export.com
 .moviefap.com
-.mozilla.ai
 .mozilla.org
 .moztw.org
 .mp3buscador.com
@@ -4052,6 +4060,7 @@
 .ntdtv.jp
 .ntdtv.ru
 .ntdtvla.com
+.nthlink.com
 .ntrfun.com
 .ntu.edu.tw
 .nu.nl
@@ -4127,6 +4136,7 @@
 .okpool.me
 .okx.com
 .old-cat.net
+.oldmapsonline.org
 .olehdtv.com
 .olelive.com
 .olevod.com
@@ -4617,7 +4627,6 @@
 .radio.garden
 .radioaustralia.net.au
 .radiohilight.net
-.radiojar.com
 .radioline.co
 .radiotime.com
 .radiovaticana.org
@@ -5299,6 +5308,7 @@
 .synergyse.com
 .syosetu.com
 .sysresccd.org
+.sysub.com
 .sytes.net
 .syx86.com
 .szbbs.net
@@ -5656,6 +5666,7 @@
 .toh.info
 .token.im
 .tokenlon.im
+.tokenplus.app
 .tokyo-247.com
 .tokyo-hot.com
 .tokyocn.com
@@ -5728,6 +5739,7 @@
 .truthontour.org
 .truthsocial.com
 .truveo.com
+.tryai.dev
 .tryheart.jp
 .tsctv.net
 .tsemtulku.com
@@ -6036,6 +6048,7 @@
 .uygur.org
 .uymaarip.com
 .v.gd
+.v.recipes
 .v.roucdn
 .v2.help
 .v2.hysteria.network
@@ -6265,6 +6278,7 @@
 .webrush.net
 .webs-tv.net
 .websdr.org
+.webshare.io
 .website.new
 .websitepulse.com
 .websnapr.com
@@ -6358,6 +6372,7 @@
 .wilsoncenter.org
 .windowsphoneme.com
 .windscribe.com
+.windy.com
 .wingamestore.com
 .wingy.site
 .winning11.com
@@ -6435,7 +6450,6 @@
 .wuyanblog.com
 .wwe.com
 .wwitv.com
-.www.clashverge.dev
 .www.lamenhu.com
 .www.orchidbbs.com
 .www.taup.org.tw
@@ -6687,6 +6701,7 @@
 .zengjinyan.org
 .zenmate.com
 .zenmate.com.ru
+.zenmux.ai
 .zerohedge.com
 .zeronet.io
 .zeutch.com

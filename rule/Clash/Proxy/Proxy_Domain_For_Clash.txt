@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-30 02:45:14
+# UPDATED: 2026-08-22 02:30:24
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6746
+# DOMAIN-SUFFIX: 6761
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6878
+# TOTAL: 6893
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -44,6 +44,7 @@ voice.telephony.goog
 +.18board.com
 +.18board.info
 +.18comic.org
++.18comic.vip
 +.18mh.net
 +.18onlygirls.com
 +.18p2p.com
@@ -239,6 +240,7 @@ voice.telephony.goog
 +.ai-wen.net
 +.ai.dev
 +.ai.studio
++.aihub.top
 +.aiosearch.com
 +.aiph.net
 +.airasia.com
@@ -989,6 +991,7 @@ voice.telephony.goog
 +.centerforhumanreprod.com
 +.centralnation.com
 +.centurys.net
++.cerebras.ai
 +.certificate-transparency.org
 +.cex.io
 +.cfhks.org.hk
@@ -1117,6 +1120,7 @@ voice.telephony.goog
 +.chromercise.com
 +.chromestatus.com
 +.chromium.org
++.cht.com.tw
 +.chuang-yen.org
 +.chubold.com
 +.chubun.com
@@ -1130,6 +1134,7 @@ voice.telephony.goog
 +.cienen.com
 +.cineastentreff.de
 +.cipfg.org
++.circle19.org
 +.circlethebayfortibet.org
 +.cirosantilli.com
 +.citizencn.com
@@ -1153,6 +1158,7 @@ voice.telephony.goog
 +.ck101.com
 +.cl.ly
 +.clarionproject.org
++.clashyun.com
 +.classicalguitarblog.net
 +.claude.com
 +.clb.org.hk
@@ -1237,7 +1243,6 @@ voice.telephony.goog
 +.comments.app
 +.commentshk.com
 +.communistcrimes.org
-+.community.windy.com
 +.communitychoicecu.com
 +.comodoca.com
 +.comparitech.com
@@ -1480,6 +1485,7 @@ voice.telephony.goog
 +.disqus.com
 +.disquscdn.com
 +.dit-inc.us
++.divdyn.com
 +.diyin.org
 +.dizhidizhi.com
 +.dizhuzhishang.com
@@ -1749,6 +1755,7 @@ voice.telephony.goog
 +.eromon.net
 +.eroprofile.com
 +.eroticsaloon.net
++.esim.redteago.com
 +.eslite.com
 +.esmtp.biz
 +.esurance.com
@@ -1789,6 +1796,7 @@ voice.telephony.goog
 +.experts-univers.com
 +.exploader.net
 +.expofutures.com
++.expressnews.com
 +.expressvpn.com
 +.exrates.me
 +.extmatrix.com
@@ -3160,6 +3168,7 @@ voice.telephony.goog
 +.kanzhongguo.eu
 +.kaotic.com
 +.karayou.com
++.kards.com
 +.karkhung.com
 +.karmapa-teachings.org
 +.karmapa.org
@@ -3737,7 +3746,6 @@ voice.telephony.goog
 +.movements.org
 +.moves-export.com
 +.moviefap.com
-+.mozilla.ai
 +.mozilla.org
 +.moztw.org
 +.mp3buscador.com
@@ -4060,6 +4068,7 @@ voice.telephony.goog
 +.ntdtv.jp
 +.ntdtv.ru
 +.ntdtvla.com
++.nthlink.com
 +.ntrfun.com
 +.ntu.edu.tw
 +.nu.nl
@@ -4135,6 +4144,7 @@ voice.telephony.goog
 +.okpool.me
 +.okx.com
 +.old-cat.net
++.oldmapsonline.org
 +.olehdtv.com
 +.olelive.com
 +.olevod.com
@@ -4625,7 +4635,6 @@ voice.telephony.goog
 +.radio.garden
 +.radioaustralia.net.au
 +.radiohilight.net
-+.radiojar.com
 +.radioline.co
 +.radiotime.com
 +.radiovaticana.org
@@ -5307,6 +5316,7 @@ voice.telephony.goog
 +.synergyse.com
 +.syosetu.com
 +.sysresccd.org
++.sysub.com
 +.sytes.net
 +.syx86.com
 +.szbbs.net
@@ -5664,6 +5674,7 @@ voice.telephony.goog
 +.toh.info
 +.token.im
 +.tokenlon.im
++.tokenplus.app
 +.tokyo-247.com
 +.tokyo-hot.com
 +.tokyocn.com
@@ -5736,6 +5747,7 @@ voice.telephony.goog
 +.truthontour.org
 +.truthsocial.com
 +.truveo.com
++.tryai.dev
 +.tryheart.jp
 +.tsctv.net
 +.tsemtulku.com
@@ -6044,6 +6056,7 @@ voice.telephony.goog
 +.uygur.org
 +.uymaarip.com
 +.v.gd
++.v.recipes
 +.v.roucdn
 +.v2.help
 +.v2.hysteria.network
@@ -6273,6 +6286,7 @@ voice.telephony.goog
 +.webrush.net
 +.webs-tv.net
 +.websdr.org
++.webshare.io
 +.website.new
 +.websitepulse.com
 +.websnapr.com
@@ -6366,6 +6380,7 @@ voice.telephony.goog
 +.wilsoncenter.org
 +.windowsphoneme.com
 +.windscribe.com
++.windy.com
 +.wingamestore.com
 +.wingy.site
 +.winning11.com
@@ -6443,7 +6458,6 @@ voice.telephony.goog
 +.wuyanblog.com
 +.wwe.com
 +.wwitv.com
-+.www.clashverge.dev
 +.www.lamenhu.com
 +.www.orchidbbs.com
 +.www.taup.org.tw
@@ -6695,6 +6709,7 @@ voice.telephony.goog
 +.zengjinyan.org
 +.zenmate.com
 +.zenmate.com.ru
++.zenmux.ai
 +.zerohedge.com
 +.zeronet.io
 +.zeutch.com
